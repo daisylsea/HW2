@@ -1,27 +1,29 @@
-body {
-  color:#480000 ;
-  font-family:Serif,Helvettica,sans-serif;
-  background-color: #B4FF9B ;
-}
+body{
+ background-color:white;
+ background:none 
+ color:black;}
+ div {border:black
+ }
+figure{visibility: hidden;}
+
+nav  {
+		display: none;}
 p {
   font-size:1em;
   }
 header {
   width:80%;
   text-align: center;
-  background-color: #006231 ;
-  color:#E68A00;
-  
+  background-color: white ;
+  color:black;
   } 
-  
-
 section {
   margin-right:auto;
   margin-left:auto;
   text-justify:left;
   padding:15px;
-  border: 20px #FFFF00;
-  border-bottom-color:#FF6600;
+  border: 20px black;
+  border-bottom-color:black;
   }
 h1  {font-size:2em;
    }
