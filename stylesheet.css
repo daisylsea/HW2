@@ -8,27 +8,33 @@ p {
   }
 header {
   width:80%;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom:10px;
   text-align: center;
   background-color: #006231 ;
   color:#E68A00;
   
   } 
-  
+.figure {margin-right:auto;
+  margin-left:auto;
+  width:80%;
+}
 
-section {
+.section {
   margin-right:auto;
   margin-left:auto;
   text-justify:left;
-  padding:15px;
-  border: 20px #FFFF00;
-  border-bottom-color:#FF6600;
+  padding:5px;
+  border: 5px green solid;
+  background-color: Bisque;
   }
 h1  {font-size:2em;
    }
 h2 {
     text-decoration: underline;
 	font-size:1.7;
-	}
+}
 h3 {
     font-size:1.4;
-	}
+}

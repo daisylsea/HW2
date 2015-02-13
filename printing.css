@@ -4,10 +4,12 @@ body{
  color:black;}
  div {border:black
  }
-figure{visibility: hidden;}
 
-nav  {
-		display: none;}
+img{display: none;
+}
+
+nav{display: none;
+}
 p {
   font-size:1em;
   }
